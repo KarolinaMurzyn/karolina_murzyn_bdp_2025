@@ -1,1 +1,1 @@
--- test
+CREATE DATABASE firma;
